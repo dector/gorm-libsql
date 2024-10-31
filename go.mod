@@ -1,4 +1,4 @@
-module gorm.io/driver/sqlite
+module github.com/dector/gorm-libsql
 
 go 1.22.0
 
