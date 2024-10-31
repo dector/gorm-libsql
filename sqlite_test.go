@@ -1,11 +1,10 @@
-package sqlite
+package libsql
 
 import (
 	"database/sql"
 	"fmt"
 	"testing"
 
-	"github.com/mattn/go-sqlite3"
 	"gorm.io/gorm"
 )
 
